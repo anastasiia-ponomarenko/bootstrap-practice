@@ -7,3 +7,10 @@
 	position: relative;
 }
 
+a {text-decoration: 
+	none !important;  
+}
+
+.contact.container.py-5.border-bottom.border-success {
+	width: 650px !important;
+}
